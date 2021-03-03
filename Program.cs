@@ -13,6 +13,8 @@ namespace TestProject
             Console.WriteLine("Fin ajout de lignes");
             Console.WriteLine("Fin ajout de lignes");
             Console.WriteLine("Fin ajout de lignes");
+
+            Console.WriteLine("Fin ajout PP");
         }
         public static void function()
         {
