@@ -11,6 +11,7 @@ namespace TestProject
             Console.WriteLine("Modification 2");
             Console.WriteLine("Modification 3");
             Console.WriteLine("Fin ajout de lignes");
+            Console.WriteLine("Fin ajout de lignes");
 
         }
         public static void function()
